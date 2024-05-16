@@ -5,7 +5,7 @@ function App() {
   return (
     <>
      
-Shafi is fucker
+     salam
     </>
   )
 }
