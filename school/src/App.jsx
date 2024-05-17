@@ -5,8 +5,7 @@ function App() {
   return (
     <>
      
-     salam
-     walekum 
+   hellow world 
     </>
   )
 }
